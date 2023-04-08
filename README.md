@@ -1,7 +1,7 @@
 # Decept's No NPC Script 
 
 ## Installation
-1. Download [```Deceptdevv-npc```](https://github.com/DeceptDevv/Deceptdevv-npc/releases/tag/Deceptdevv-npc-main)
+1. Download [```Deceptdevv-npc```](https://github.com/DeceptDevv/Deceptdevv-npc/releases/tag/npc)
 
 2. Extract to desktop
 
