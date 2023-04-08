@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 
 game 'gta5'
-author 'ZAD4Y'
+author 'DeceptDevv'
 description 'https://github.com/DeceptDevv/Deceptdevv-npc'
 version '1.0.1'
 
